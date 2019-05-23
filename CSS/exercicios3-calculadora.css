@@ -1,0 +1,33 @@
+li{
+	list-style:none;
+}
+
+#calculadora {
+	width: 234px;
+	height: 260px;
+    padding:2px;
+    background-color: #dfdfdf;
+    border-radius: 2%;
+}
+
+.key li {
+	width:40px;
+	height:30px;
+	border-radius:3px;
+    float:left;
+    margin-bottom: 5%;
+    margin-right: 1%;
+    text-align: center;
+    border: 1px solid #bbbaba;
+}
+
+.input {
+    color: black;
+    border: 2px solid #bbbaba;
+    height: 15%;
+}
+
+p {
+    float: right;
+    margin-right: 2%;
+}
